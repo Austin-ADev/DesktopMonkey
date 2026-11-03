@@ -17,5 +17,5 @@ labels: ["bug"]
 
 ## Screenshot or recording
 
-## OS
+## OS and Version
 <!-- e.g. Windows 11, macOS 15, Ubuntu 24.04 -->   
