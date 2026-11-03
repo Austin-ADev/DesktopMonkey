@@ -1,0 +1,27 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.austinadev.desktopmonkey.linux</Name>
+  <Title>Desktop Monkey</Title>
+  <Version>0.1.0</Version>
+  <Platform name="Linux"/>
+  <DisplayName>com.austinadev.desktopmonkey.linux</DisplayName>
+  <UpdateFile CompressedSize="20938674" OS="Any" UncompressedSize="75279184"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <SHA1>7aae46be0369425d86862f224cd895bb4f73e9f1</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>com.austinadev.desktopmonkey.windows</Name>
+  <Title>Desktop Monkey</Title>
+  <Version>0.1.0</Version>
+  <Platform name="Windows"/>
+  <DisplayName>com.austinadev.desktopmonkey.windows</DisplayName>
+  <UpdateFile CompressedSize="26155059" OS="Any" UncompressedSize="104726996"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <SHA1>00085d09f1a193d9052fa6d4a0e34c881000c94f</SHA1>
+ </PackageUpdate>
+ <SHA1>ca9b559dd6cdbe90060b5a9c1714915774f1beee</SHA1>
+ <MetadataName>2026-11-03-0918_meta.7z</MetadataName>
+</Updates>
